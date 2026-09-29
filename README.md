@@ -1,4 +1,4 @@
-# A.L.E.X-M1
+# A.L.E.X-M1.0
 
 > Personal multi-tool autonomous agent — Mark 1 of an evolving JARVIS/FRIDAY-style assistant.
 
